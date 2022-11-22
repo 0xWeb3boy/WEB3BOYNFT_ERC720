@@ -1,0 +1,27 @@
+{
+  "name": "CodeNinja #27",
+  "description": "A few ninjas taking over the world of coding",
+  "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/27.png",
+  "dna": "100cc9a9ab5362484651e5b7c5efe9b0e87774af",
+  "edition": 27,
+  "date": 1668795999910,
+  "attributes": [
+    {
+      "trait_type": "boy",
+      "value": "man1"
+    },
+    {
+      "trait_type": "cap",
+      "value": "hat2"
+    },
+    {
+      "trait_type": "gun",
+      "value": "gun1"
+    },
+    {
+      "trait_type": "money",
+      "value": "coin2"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

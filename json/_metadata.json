@@ -1,0 +1,2702 @@
+[
+  {
+    "name": "CodeNinja #1",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/1.png",
+    "dna": "8b18857972822b619c4f0e1a3d7fb99d61810f4f",
+    "edition": 1,
+    "date": 1668795995191,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #2",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/2.png",
+    "dna": "9215e4a2f03716459006044df29287776f07435b",
+    "edition": 2,
+    "date": 1668795995534,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun2"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #3",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/3.png",
+    "dna": "dc98aedb5cbdaf95cabc51be49d48eac4f15270a",
+    "edition": 3,
+    "date": 1668795995880,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #4",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/4.png",
+    "dna": "f7e1255705c9d0c7bef4e7c508118ec4a86fa22b",
+    "edition": 4,
+    "date": 1668795996071,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #5",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/5.png",
+    "dna": "b46ec85be17f359d36f86db422828060475e56cf",
+    "edition": 5,
+    "date": 1668795996250,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat4"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun1"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #6",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/6.png",
+    "dna": "fb45f0aefeebc8bd88ae09279e47741caaa7b55a",
+    "edition": 6,
+    "date": 1668795996430,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #7",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/7.png",
+    "dna": "0629f97cdc789596be82cd209eac4d7916fe2c28",
+    "edition": 7,
+    "date": 1668795997488,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man3"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun1"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #8",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/8.png",
+    "dna": "f6ae4172f10b1b23bf5139d5ccf22396f906b9ac",
+    "edition": 8,
+    "date": 1668795997819,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat4"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun4"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #9",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/9.png",
+    "dna": "2f242c6fbb6b672290ebb86abb907c82384dd8dd",
+    "edition": 9,
+    "date": 1668795997991,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat3"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun1"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #10",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/10.png",
+    "dna": "a9595f1345ec73743f026a7e0eb57e6c46178e68",
+    "edition": 10,
+    "date": 1668795998108,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man3"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #11",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/11.png",
+    "dna": "5f1d868244b1254ac0250ade23128b1377b86322",
+    "edition": 11,
+    "date": 1668795998230,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #12",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/12.png",
+    "dna": "3a2ac4d0ef9eeb1028e9e82512caa56b16d6398f",
+    "edition": 12,
+    "date": 1668795998373,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #13",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/13.png",
+    "dna": "49c0241b3d13cedf9ebda3b7e8c5aa9550615086",
+    "edition": 13,
+    "date": 1668795998477,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun1"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #14",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/14.png",
+    "dna": "845c444f6d6ab7a528825a07b60ca2fe6c643f10",
+    "edition": 14,
+    "date": 1668795998568,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun1"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #15",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/15.png",
+    "dna": "862262df601bb9c2375f03281b98eee683d71144",
+    "edition": 15,
+    "date": 1668795998700,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun2"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #16",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/16.png",
+    "dna": "26e1ba3a315d3bf6557a823afff90c253b2d9564",
+    "edition": 16,
+    "date": 1668795998782,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat4"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #17",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/17.png",
+    "dna": "1268b17c8a2bc9e239f87cfcd2afe3911b9e18f2",
+    "edition": 17,
+    "date": 1668795998908,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun1"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #18",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/18.png",
+    "dna": "43a2923fd5798a5bf0b88fbc6f1b73c58bb8f3d4",
+    "edition": 18,
+    "date": 1668795999014,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #19",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/19.png",
+    "dna": "758fc15fd79906c64bfa4d2a65e3f8e445d9b093",
+    "edition": 19,
+    "date": 1668795999121,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat4"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #20",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/20.png",
+    "dna": "95369362a258788956ad45e8e9e07044b98e5d23",
+    "edition": 20,
+    "date": 1668795999232,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat3"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #21",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/21.png",
+    "dna": "1fcc9cd65a82891bdf59bfcb83d77a3998f51a8e",
+    "edition": 21,
+    "date": 1668795999300,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man3"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun4"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #22",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/22.png",
+    "dna": "a1834e47a6d731dd765199bf7db7f8c154165961",
+    "edition": 22,
+    "date": 1668795999414,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun2"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #23",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/23.png",
+    "dna": "8fceb07d216f24443934193aa2bdbb14783005d1",
+    "edition": 23,
+    "date": 1668795999542,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun1"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #24",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/24.png",
+    "dna": "78d2b4c1d82388e03d1d2fd19cb71bb480acea5d",
+    "edition": 24,
+    "date": 1668795999671,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat3"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #25",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/25.png",
+    "dna": "2f829086480eae9c26df124983988337f0e5d9b4",
+    "edition": 25,
+    "date": 1668795999732,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun2"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #26",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/26.png",
+    "dna": "0a8114a862929a7371155ef2a3b876bc8c255a5e",
+    "edition": 26,
+    "date": 1668795999789,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun1"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #27",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/27.png",
+    "dna": "100cc9a9ab5362484651e5b7c5efe9b0e87774af",
+    "edition": 27,
+    "date": 1668795999910,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun1"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #28",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/28.png",
+    "dna": "df9399fbac525a0eeb4c733c16a967591f0b8e34",
+    "edition": 28,
+    "date": 1668795999978,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man3"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat4"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #29",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/29.png",
+    "dna": "7c097b14e7693867869c176fcf0f8ee3811e5d21",
+    "edition": 29,
+    "date": 1668796000058,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man3"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun1"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #30",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/30.png",
+    "dna": "c21ccbaf88f9810ef1a04dff7d62b4b8441b7246",
+    "edition": 30,
+    "date": 1668796000135,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man3"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #31",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/31.png",
+    "dna": "7bc3b1aa4c8576dd0ab0175caab094fc7e19f402",
+    "edition": 31,
+    "date": 1668796000271,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun2"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #32",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/32.png",
+    "dna": "eff115d207ed4cc22eb86c1858d6a17af73efae2",
+    "edition": 32,
+    "date": 1668796000413,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #33",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/33.png",
+    "dna": "2d70ca3b1480ed985a5f95c34bbc1f65deea3e16",
+    "edition": 33,
+    "date": 1668796000515,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man3"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #34",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/34.png",
+    "dna": "81d77ad008c9aa953b032241e059b045fa168604",
+    "edition": 34,
+    "date": 1668796000572,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat3"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun2"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #35",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/35.png",
+    "dna": "5cd78b886d4f632d8caf84f7061835c6d179017e",
+    "edition": 35,
+    "date": 1668796000643,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man3"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat3"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #36",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/36.png",
+    "dna": "e1a601f604264023a79f09c5a14b6cc851432d0b",
+    "edition": 36,
+    "date": 1668796000755,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun1"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #37",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/37.png",
+    "dna": "42808a3081b8c991ee1bbcdb2c1d245c354ace04",
+    "edition": 37,
+    "date": 1668796000811,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat3"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #38",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/38.png",
+    "dna": "4ad8bf078d5b884b21848dc1d4bec04f1a4aa63e",
+    "edition": 38,
+    "date": 1668796000867,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun2"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #39",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/39.png",
+    "dna": "b83dda6b8f27c1c48bcafe28c7d651583df5d9ab",
+    "edition": 39,
+    "date": 1668796001012,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat3"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun2"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #40",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/40.png",
+    "dna": "f2e9b6696ac1ef69dd2c9612b87e7923d6308349",
+    "edition": 40,
+    "date": 1668796001108,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat3"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #41",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/41.png",
+    "dna": "82b00d59a2e4e846e4d5babeef28267cf6e718f4",
+    "edition": 41,
+    "date": 1668796001222,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #42",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/42.png",
+    "dna": "2ed6f0599dc6ebb2e3c95cef145c006e9b53cb90",
+    "edition": 42,
+    "date": 1668796001425,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat4"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun1"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #43",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/43.png",
+    "dna": "e3d2bec2c1b4884b0f9bbb12d4b65bdf5955f9e3",
+    "edition": 43,
+    "date": 1668796001566,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun2"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #44",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/44.png",
+    "dna": "88bcd6d14938ff4d7411172777d7c2ff4487ec7a",
+    "edition": 44,
+    "date": 1668796001682,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun1"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #45",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/45.png",
+    "dna": "8498f13beaab731426c666bc8dd1a4d5f28474fa",
+    "edition": 45,
+    "date": 1668796001756,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun2"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #46",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/46.png",
+    "dna": "a7622ff60ee77676511dbf714e8d23974985607b",
+    "edition": 46,
+    "date": 1668796001819,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun1"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #47",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/47.png",
+    "dna": "8365f3de239f2023ef94f8130144d85140b1bf56",
+    "edition": 47,
+    "date": 1668796001900,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man3"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat4"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun1"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #48",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/48.png",
+    "dna": "2ec3427e517437b971ee468f2082757a7250235e",
+    "edition": 48,
+    "date": 1668796002026,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun1"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #49",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/49.png",
+    "dna": "089622b87b9b833d5ad2953bbb6c98ca3f7b0c94",
+    "edition": 49,
+    "date": 1668796002102,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man3"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun4"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #50",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/50.png",
+    "dna": "7f091b43ae7143ec1d593e1a22bd72d0bdb590cf",
+    "edition": 50,
+    "date": 1668796002269,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man3"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun2"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #51",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/51.png",
+    "dna": "a80ea3c4eb4061f3cbcc43520229ec3c2485bb6b",
+    "edition": 51,
+    "date": 1668796002402,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun4"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #52",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/52.png",
+    "dna": "9ae0acdce4ff578e2be1732f5f3cbd81b1f4c3c2",
+    "edition": 52,
+    "date": 1668796002471,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun4"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #53",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/53.png",
+    "dna": "3863c16badaafeb82254dee3736ad0bc6dba7fd0",
+    "edition": 53,
+    "date": 1668796002552,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat3"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun1"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #54",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/54.png",
+    "dna": "61b005e32350a741b0a18e94c1faa249fc0ba8dc",
+    "edition": 54,
+    "date": 1668796002630,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #55",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/55.png",
+    "dna": "07021bab10126bbbfe39af0ed802fc6a56dfdd6f",
+    "edition": 55,
+    "date": 1668796002740,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun2"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #56",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/56.png",
+    "dna": "f6c6d8bf588729203d010da614315dbc7864b0b2",
+    "edition": 56,
+    "date": 1668796002806,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man3"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun4"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #57",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/57.png",
+    "dna": "c491d0ff16cbcb75b667ce8a4671e893e9cd13d6",
+    "edition": 57,
+    "date": 1668796002915,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat3"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #58",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/58.png",
+    "dna": "428656a0aee7cba7f4bd728c49d23704071963cf",
+    "edition": 58,
+    "date": 1668796003039,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat3"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #59",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/59.png",
+    "dna": "c36a75c73d9e1ad02753c0a4fc10d7a45b4e4721",
+    "edition": 59,
+    "date": 1668796003153,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat4"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #60",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/60.png",
+    "dna": "5ba753d66634f6ce489602db77a0b45cde6c3251",
+    "edition": 60,
+    "date": 1668796003287,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #61",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/61.png",
+    "dna": "729d60fa9a7a65b6530dea61e5a87ef81698a5fc",
+    "edition": 61,
+    "date": 1668796003407,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun1"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #62",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/62.png",
+    "dna": "a63518dabd8be878577ba592f3f6f38b2fb95988",
+    "edition": 62,
+    "date": 1668796003547,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #63",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/63.png",
+    "dna": "144af3bc28078921d5358b14b85726a556611469",
+    "edition": 63,
+    "date": 1668796003608,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat3"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #64",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/64.png",
+    "dna": "9bdbfe67a98411acf717b08b96d7a1c0c06ddd08",
+    "edition": 64,
+    "date": 1668796003663,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat4"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #65",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/65.png",
+    "dna": "f6b7fa60763d092d650e56014d21c1d3794ea94f",
+    "edition": 65,
+    "date": 1668796003740,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man3"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat3"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun2"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #66",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/66.png",
+    "dna": "ed71f980e5789ea2f8ec5f1530d6fa622e03159a",
+    "edition": 66,
+    "date": 1668796003809,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man3"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #67",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/67.png",
+    "dna": "d19dc31bfd2a3e2d95f0004c085f256514eeaa4c",
+    "edition": 67,
+    "date": 1668796003863,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #68",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/68.png",
+    "dna": "2b0de197ba35480a280772cc90f5fc5c9c6b5e69",
+    "edition": 68,
+    "date": 1668796003967,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man3"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #69",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/69.png",
+    "dna": "334bd1ecb4b4e6f70f849c2e0538bdf5ec88a1de",
+    "edition": 69,
+    "date": 1668796004078,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat4"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun2"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #70",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/70.png",
+    "dna": "c4aa13b4ac3a40f007b3ddef3de8ab60e52c22f8",
+    "edition": 70,
+    "date": 1668796004152,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man3"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #71",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/71.png",
+    "dna": "6af9388dc3c28f0787ceb98068bf9f26c37b828d",
+    "edition": 71,
+    "date": 1668796004218,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun4"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #72",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/72.png",
+    "dna": "e834350af609b85df37045a19499dbf4d320133f",
+    "edition": 72,
+    "date": 1668796004336,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun2"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #73",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/73.png",
+    "dna": "d2fc87f882f371b33a3ee550f077f6079ba0c833",
+    "edition": 73,
+    "date": 1668796004414,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man3"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat4"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun2"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #74",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/74.png",
+    "dna": "a93dc1fa2af5f7ef06763f4a0054afb101141f50",
+    "edition": 74,
+    "date": 1668796004485,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat4"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun2"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #75",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/75.png",
+    "dna": "7f16ff1a5e0cc7fecd2194b4c10406f370f4d05c",
+    "edition": 75,
+    "date": 1668796004579,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat3"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun2"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #76",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/76.png",
+    "dna": "2608441e7960d7cc167bccc527340744b5f1875b",
+    "edition": 76,
+    "date": 1668796004701,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man3"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #77",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/77.png",
+    "dna": "05f6b39904978afec8dc7b6ffbcb2df1c24abea2",
+    "edition": 77,
+    "date": 1668796004784,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man3"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat3"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #78",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/78.png",
+    "dna": "1784255318a94fd9493c413013d0407b24920e21",
+    "edition": 78,
+    "date": 1668796004902,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man3"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat4"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun2"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #79",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/79.png",
+    "dna": "2cdf0dcd1bba0709218f8699ecbb3f319bfaa5a5",
+    "edition": 79,
+    "date": 1668796004995,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #80",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/80.png",
+    "dna": "2697a5fc3cbc5aeab25354bb5bab5108350a3f28",
+    "edition": 80,
+    "date": 1668796005123,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man3"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat4"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun4"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #81",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/81.png",
+    "dna": "18dc639095d852c541633811d980d85e5b222eef",
+    "edition": 81,
+    "date": 1668796005247,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat4"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #82",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/82.png",
+    "dna": "65b20f03137613321a1e11f0f5af58fb20a73274",
+    "edition": 82,
+    "date": 1668796005372,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun4"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #83",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/83.png",
+    "dna": "f64a2bd47100c87bc769ccbca209a82d6b193618",
+    "edition": 83,
+    "date": 1668796005472,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man3"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat3"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun1"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #84",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/84.png",
+    "dna": "1aeff52cd8d9c4e804465bf1ed43914f10702552",
+    "edition": 84,
+    "date": 1668796005567,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #85",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/85.png",
+    "dna": "1950d629347d5102f21d359570c7458e34bf1023",
+    "edition": 85,
+    "date": 1668796005666,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat3"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun4"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #86",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/86.png",
+    "dna": "426edbf23d43b6390bad393110692e18b9f34614",
+    "edition": 86,
+    "date": 1668796005910,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun2"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #87",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/87.png",
+    "dna": "cfe947ff39079e12243097e3c8915586b76a46cf",
+    "edition": 87,
+    "date": 1668796005977,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun1"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #88",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/88.png",
+    "dna": "862630ccd03dd44bfde81d8a05605ff2b39d5b07",
+    "edition": 88,
+    "date": 1668796006044,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun2"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #89",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/89.png",
+    "dna": "b38878b16fd932950fb828180b3659ca88b7adf6",
+    "edition": 89,
+    "date": 1668796006104,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun1"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #90",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/90.png",
+    "dna": "15513951dafcf563cbf500fb56f411619966b239",
+    "edition": 90,
+    "date": 1668796006206,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man3"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat1"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun1"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #91",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/91.png",
+    "dna": "e649714912efef80b03bd91b6ff0cdc5725c6e1b",
+    "edition": 91,
+    "date": 1668796006350,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun1"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #92",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/92.png",
+    "dna": "e58c094e3740b5c92c63a16cbb613b480ee64329",
+    "edition": 92,
+    "date": 1668796006428,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man3"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat4"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #93",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/93.png",
+    "dna": "9a128981ec82250fcf62fd4135bd36cef9e92724",
+    "edition": 93,
+    "date": 1668796006507,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat3"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun1"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #94",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/94.png",
+    "dna": "7630261e67ebd562ec94b8625c9a4b751898bd51",
+    "edition": 94,
+    "date": 1668796006585,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man3"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun3"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #95",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/95.png",
+    "dna": "a669a85ec500709694392a37322fffdbf7722b56",
+    "edition": 95,
+    "date": 1668796006700,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat3"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun2"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #96",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/96.png",
+    "dna": "7a4b30bc90d1a76f004ab81dd01fb46dbe5ea283",
+    "edition": 96,
+    "date": 1668796006805,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat2"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun4"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #97",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/97.png",
+    "dna": "83786b126e40b686abbef456fdbd06271907e69c",
+    "edition": 97,
+    "date": 1668796006868,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat4"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun1"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin3"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #98",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/98.png",
+    "dna": "4d4b40a5e9be1406e13fbcc8a1cbc040078b5fbf",
+    "edition": 98,
+    "date": 1668796006937,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man3"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat4"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun1"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin2"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #99",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/99.png",
+    "dna": "58dd8014a444b014a5851ede6bff9b7faf171016",
+    "edition": 99,
+    "date": 1668796007069,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man1"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat4"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun2"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin1"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "name": "CodeNinja #100",
+    "description": "A few ninjas taking over the world of coding",
+    "image": "ipfs://Qmae17eE5RTeeFSt8h7C3ygyHYDYaaGtbLkNhoWYK6RhpQ/100.png",
+    "dna": "d90aa0f254f441aae7d29c1d8390c1c6de72723a",
+    "edition": 100,
+    "date": 1668796007151,
+    "attributes": [
+      {
+        "trait_type": "boy",
+        "value": "man2"
+      },
+      {
+        "trait_type": "cap",
+        "value": "hat4"
+      },
+      {
+        "trait_type": "gun",
+        "value": "gun2"
+      },
+      {
+        "trait_type": "money",
+        "value": "coin4"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
